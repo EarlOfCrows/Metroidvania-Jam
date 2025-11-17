@@ -5,6 +5,6 @@
 [node name="example_map" type="Node2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(543.5, 0)
-scale = Vector2(9.4921875, 1)
+position = Vector2(543.5, 134)
+scale = Vector2(9.4921875, 3.09375)
 texture = ExtResource("1_ospgo")
